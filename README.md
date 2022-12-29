@@ -37,10 +37,12 @@ selling the stocks is represented as -be value in shares
 and the price column represents the stock price for 1 share at the time he bought
 and the transacted column represents the date and time he bought the particular share.
 
-I used IEX cloud for the live prices of the stocks.
+### Demonstration on youtube
+For the CS50 final project you have to make a video showning your project,
+[My Final Project presentation](https://www.youtube.com/watch?v=YAXmRfrcOVc)
 
 
-## About CS50
+### About CS50
 CS50 is a openware course from Havard University and taught by David J. Malan
 
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development).
