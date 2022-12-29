@@ -1,7 +1,7 @@
 
 # SACHIN's FINANCE
 
-### Video url:
+### Video url: https://youtu.be/SV8voADQKao
 
 ### Description:
 
@@ -39,7 +39,7 @@ and the transacted column represents the date and time he bought the particular 
 
 ### Demonstration on youtube
 For the CS50 final project you have to make a video showning your project,
-[My Final Project presentation](https://www.youtube.com/watch?v=YAXmRfrcOVc)
+[My Final Project presentation](https://youtu.be/SV8voADQKao)
 
 
 ### About CS50
